@@ -7,7 +7,6 @@ This was my submission to [this odin react project](https://www.theodinproject.c
   
 Pokemon memory game:
 
+- The App component manages the state of the score and the list of Pokemon cards. Clicking on a Pokemon card shuffles the cards and updates its state. You can only click on each Pokemon once to increase the score, with the best score tracker implemented, or else you lose
+- I used CSS to style the game title and use specific font sizes
 
-- Pokemon cards
-- Scoreboard
-- Don't click on the same card twice or else you lose
